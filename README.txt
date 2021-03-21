@@ -1,9 +1,2 @@
-Ahmad Salama
-ID: 318611803		
-
-obaida Kata
-ID: 318970290
-
-
-
-Hope you enjoy the game :) 
+Console Application Written in C++, 
+The game is a mix of Ping Pong & Tetris.
